@@ -1,8 +1,8 @@
 My name is Jakub Jandura and I have extensive experience in the field of information technology and print system management. I specialize in front-end development and software process automation, with skills spanning a wide range of technologies from JavaScript to PHP and SQL databases. Currently, I am focusing on expanding my expertise in modern front-end frameworks.
 
-In my coding work, I primarily work with plain JavaScript. I definitely want to focus more on front-end application development in REACT, VUE.JS, etc. Additionally, I work with HTML5, CSS, XML, JSON, PowerShell, AHK, and PHP.
+In my coding work, I primarily work with plain JavaScript and PHP. Additionally, I work with SQL, HTML5, CSS (Bootstrap), XML, JSON, PowerShell, AHK, and PHP.
 
-Currently, I am working on software automation of corporate processes (specifically automating orders, generating reports, notifications about goods in stock, transferring data from external systems to an internal SQL database, and vice versa). In my work, I use tools such as Postman, DBeaver, Visual Studio Code, etc. I also use Altova MapForce server and Altova Flowforce server (for connecting and automating systems working with API and SQL, which I manage and further expand).
+Currently, I am working on software automation of corporate processes (specifically automating orders, generating reports, notifications about goods in stock, transferring data from external systems to an internal SQL database, and vice versa). In my work, I use tools such as Postman,SSMS, DBeaver, Visual Studio Code, etc. I also use Altova MapForce server and Altova Flowforce server (for connecting and automating systems working with API and SQL, which I manage and further expand).
 
 I have experience with data mining software, DMS, printing management software (MyQ), and long-term experience with servicing Kyocera printing devices, including related software and print management using PRESCRIBE.
 
