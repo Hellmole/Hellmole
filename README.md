@@ -2,7 +2,7 @@ My name is Jakub Jandura and I have extensive experience in the field of informa
 
 In my coding work, I primarily work with plain JavaScript and PHP. Additionally, I work with SQL, HTML5, CSS (Bootstrap), XML, JSON, PowerShell, AHK, and PHP.
 
-Currently, I am working on software automation of corporate processes (specifically automating orders, generating reports, notifications about goods in stock, transferring data from external systems to an internal SQL database, and vice versa). In my work, I use tools such as Postman,SSMS, DBeaver, Visual Studio Code, etc. I also use Altova MapForce server and Altova Flowforce server (for connecting and automating systems working with API and SQL, which I manage and further expand).
+Currently, I am working on software automation of corporate processes (specifically automating orders, generating reports, notifications about goods in stock, transferring data from external systems to an internal SQL database, and vice versa). In my work, I use tools such as Postman, SSMS, DBeaver, Visual Studio Code, etc. I also use Altova MapForce server and Altova Flowforce server (for connecting and automating systems working with API and SQL, which I manage and further expand).
 
 I have experience with data mining software, DMS, printing management software (MyQ), and long-term experience with servicing Kyocera printing devices, including related software and print management using PRESCRIBE.
 
