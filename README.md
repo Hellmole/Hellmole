@@ -1,4 +1,4 @@
-My name is Jakub Jandura and I have extensive experience in the field of information technology and print system management. I specialize in front-end development and software process automation, with skills spanning a wide range of technologies from JavaScript to PHP and SQL databases. Currently, I am focusing on expanding my expertise in modern front-end frameworks.
+My name is Jakub Jandura and I have extensive experience in the field of information technology and print system management. I specialize in front-end development and software process automation, with skills spanning a wide range of technologies from JavaScript to PHP and SQL databases. 
 
 In my coding work, I primarily work with plain JavaScript and PHP. Additionally, I work with SQL, Python, HTML5, CSS (Bootstrap), Node.js, PowerShell and I enjoy building projects with raspberry pi pico (microPython).
 
